@@ -1,5 +1,7 @@
 # Clean Architecture
 
+![Clean Archtecture](https://github.com/maisasb/learning-summaries/blob/main/resumos/imagens/CleanArchitecture.jpg)
+
 Vários tipos de arquitetura (Hexagonal, Onion, Screamin, DCI, BCE)  
 Objetivo: Separação dos conceitos  
 Todas conseguem atingir dividindo o software em layers
